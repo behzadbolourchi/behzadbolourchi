@@ -49,4 +49,4 @@ Automation: WhatsApp API, Google Sheets API, Web Scraping
 
 *"Bridging the gap between marketing strategy and technical innovation, one Python script at a time!"* 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=behzadbolourchi&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=behzadbolourchi&color=brightgreen) 
